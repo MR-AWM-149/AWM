@@ -33,11 +33,11 @@ pip install bs4
 pip install httpx
 pip install rich
 pkg install git
-rm -rf OGGY
-git clone https://github.com/SKBER-CYBER/OGGY.git
-cd OGGY
+rm -rf AWM
+git clone https://github.com/MR-AWM-149/AWM.git
+cd AWM
 git pull
-python OGGY.py
+python AWM.py
 
-Note: (This Tools Are Paid, So You Need Permission To Use MR OGGY Tools Enjoy)
+Note: (This Tools Are Paid, So You Need Permission To Use MR AWM Tools Enjoy)
 
