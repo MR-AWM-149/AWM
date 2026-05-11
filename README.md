@@ -1,9 +1,6 @@
 <div align="center">
-
 # ⚡ AWM TOOL ⚡
-
 ### ☠️ Advanced Automation & Cyber Utility Tool ☠️
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=AWM+Tool+System;Python+Based+Automation+Tool;Fast+%26+Lightweight+Utility;Termux+%2F+Linux+Supported" />
 </p>
