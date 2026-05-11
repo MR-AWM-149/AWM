@@ -21,12 +21,23 @@
 # 📦 INSTALLATION
 
 ```bash id="awminstallfull"
-pkg update && pkg upgrade -y
-pkg install python -y
-pkg install git -y
+This Tools Working Only 64bit Mobile!
 
-git clone https://github.com/MR-AWM-149/OPEN-SCRIPT.git
+pkg update
+pkg upgrade
+pkg install python
+pkg install python2
+pip install requests
+pip install mechanize
+pip install bs4
+pip install httpx
+pip install rich
+pkg install git
+rm -rf OGGY
+git clone https://github.com/SKBER-CYBER/OGGY.git
+cd OGGY
+git pull
+python OGGY.py
 
-cd OPEN-SCRIPT
+Note: (This Tools Are Paid, So You Need Permission To Use MR OGGY Tools Enjoy)
 
-python main.py
