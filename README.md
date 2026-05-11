@@ -1,8 +1,11 @@
 <div align="center">
-# ⚡ AWM TOOL ⚡
-### ☠️ Advanced Automation & Cyber Utility Tool ☠️
+
+# ⚡💎 AWM TOOL 💎⚡
+
+### ☠️ Advanced Automation & Cyber Utility System ☠️
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=AWM+Tool+System;Python+Based+Automation+Tool;Fast+%26+Lightweight+Utility;Termux+%2F+Linux+Supported" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=AWM+Tool+System;Python+Automation+Engine;Fast+%26+Lightweight;Termux+%2F+Linux+Supported;Built+for+Developers" />
 </p>
 
 <p align="center">
@@ -15,12 +18,15 @@
 </div>
 
 ---
-
 # 📦 INSTALLATION
-```bash id="awminstall1"
+
+```bash id="awminstallfull"
 pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
+
 git clone https://github.com/MR-AWM-149/OPEN-SCRIPT.git
+
 cd OPEN-SCRIPT
+
 python main.py
