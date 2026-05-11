@@ -19,15 +19,6 @@
 
 ---
 
-# 🚀 FEATURES
-
-- ⚡ Fast & Lightweight Execution  
-- 🤖 Automation System  
-- 🐧 Termux / Linux Support  
-- 🔐 Secure Script Structure  
-- 💻 Easy to Use Interface  
-- 🧠 Beginner Friendly Design  
----
 # 📦 INSTALLATION
 ```bash id="awminstall1"
 pkg update && pkg upgrade -y
