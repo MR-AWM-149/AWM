@@ -27,18 +27,12 @@
 - 🔐 Secure Script Structure  
 - 💻 Easy to Use Interface  
 - 🧠 Beginner Friendly Design  
-
 ---
-
 # 📦 INSTALLATION
-
 ```bash id="awminstall1"
 pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
-
 git clone https://github.com/MR-AWM-149/OPEN-SCRIPT.git
-
 cd OPEN-SCRIPT
-
 python main.py
